@@ -1,0 +1,125 @@
+{
+    "noticias": [
+      {
+    "id": 1,
+    "titulo": "Presidente Sarney vai à posse de Gleisi",
+    "conteudo": "Sarney, 94 anos, é tietado por ministros e petistas em cerimônia no Planalto.",
+    "imagem": "img1.webp"
+  },
+  {
+    "id": 2,
+    "titulo": "Estudante preso nos EUA",
+    "conteudo": "Aluno da Columbia é detido; Trump comenta: 'Primeira de muitas que virão'.",
+    "imagem": "img2.avif"
+  },
+  {
+    "id": 3,
+    "titulo": "Haddad comenta tarifas de Trump",
+    "conteudo": "Ministro diz que medida pode acelerar acordo Mercosul-União Europeia.",
+    "imagem": "haddad.avif"
+  },
+  {
+    "id": 4,
+    "titulo": "Neymar Futebol",
+    "conteudo": "Neymar desabafa durante preleção do Santos.",
+    "imagem": "img/img5.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Nova vacina contra dengue",
+    "conteudo": "Butantan avança em testes de vacina 100% nacional contra dengue.",
+    "imagem": "vacina-dengue.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Inflação desacelera em abril",
+    "conteudo": "IPCA registra leve queda e traz alívio para consumidores.",
+    "imagem": "inflacao.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Crise em Gaza se intensifica",
+    "conteudo": "Conflito entre Israel e Hamas entra no 5º mês com novos ataques.",
+    "imagem": "gaza.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Tecnologia brasileira no espaço",
+    "conteudo": "Satélite nacional é lançado com sucesso da base de Alcântara.",
+    "imagem": "satelite.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Brasil vence na estreia da Copa",
+    "conteudo": "Seleção goleia adversário e anima torcida para o título.",
+    "imagem": "brasil-copa.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Nova política ambiental",
+    "conteudo": "Governo lança medidas para incentivar economia verde.",
+    "imagem": "economia-verde.avif"
+  },
+  {
+    "id": 11,
+    "titulo": "Aumento da gasolina preocupa",
+    "conteudo": "Litro do combustível ultrapassa R$ 7 em diversas capitais.",
+    "imagem": "gasolina.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Tempestade atinge o sul",
+    "conteudo": "Fortes chuvas causam alagamentos e deixam cidades em alerta.",
+    "imagem": "tempestade.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Educação: nova reforma no ensino médio",
+    "conteudo": "MEC apresenta proposta de flexibilização das disciplinas.",
+    "imagem": "ensino-medio.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Emprego cresce no primeiro trimestre",
+    "conteudo": "IBGE aponta criação de mais de 500 mil vagas formais.",
+    "imagem": "emprego.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Pesquisa revela queda na pobreza",
+    "conteudo": "Número de brasileiros abaixo da linha da pobreza diminui.",
+    "imagem": "pobreza.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Governo amplia acesso à internet",
+    "conteudo": "Nova fase do programa prevê conexão para mais 3 mil escolas.",
+    "imagem": "internet.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Festival cultural movimenta capital",
+    "conteudo": "Evento reúne artistas locais e nacionais em programação gratuita.",
+    "imagem": "festival.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Casos de dengue disparam",
+    "conteudo": "Ministério da Saúde alerta para aumento de infecções no verão.",
+    "imagem": "dengue.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "Greve dos metroviários em SP",
+    "conteudo": "Categoria paralisa atividades e afeta transporte público.",
+    "imagem": "metro-sp.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "Brasil assume presidência do G20",
+    "conteudo": "País lidera cúpula internacional com foco em sustentabilidade.",
+    "imagem": "g20.jpg"
+  }
+    ]
+  }
+  

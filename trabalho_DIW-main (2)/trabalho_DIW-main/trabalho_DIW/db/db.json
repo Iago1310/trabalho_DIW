@@ -1,0 +1,124 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Presidente Sarney vai à posse de Gleisi",
+      "conteudo": "Sarney, 94 anos, é tietado por ministros e petistas em cerimônia no Planalto.",
+      "imagem": "img1.webp"
+    },
+    {
+      "id": 2,
+      "titulo": "Estudante preso nos EUA",
+      "conteudo": "Aluno da Columbia é detido; Trump comenta: 'Primeira de muitas que virão'.",
+      "imagem": "img2.avif"
+    },
+    {
+      "id": 3,
+      "titulo": "Haddad comenta tarifas de Trump",
+      "conteudo": "Ministro diz que medida pode acelerar acordo Mercosul-União Europeia.",
+      "imagem": "haddad.avif"
+    },
+    {
+      "id": 4,
+      "titulo": "Neymar Futebol",
+      "conteudo": "Neymar desabafa durante preleção do Santos.",
+      "imagem": "img5.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Fortaleza mira Deyverson",
+      "conteudo": "Atacante pode reforçar equipe para o Brasileirão.",
+      "imagem": "vacina-dengue.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Inflação desacelera em abril",
+      "conteudo": "IPCA registra leve queda e traz alívio para consumidores.",
+      "imagem": "inflacao.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Apple lança novo iPhone",
+      "conteudo": "Modelo traz melhorias em câmera e desempenho.",
+      "imagem": "img3.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Chuva causa alagamentos no Sul",
+      "conteudo": "Temporais deixam cidades em alerta no Rio Grande do Sul.",
+      "imagem": "img4.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Greve dos professores continua",
+      "conteudo": "Categoria reivindica reajuste salarial e melhores condições.",
+      "imagem": "img6.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Bolsa sobe após fala de Lula",
+      "conteudo": "Mercado reage positivamente a discurso do presidente.",
+      "imagem": "img7.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Campanha de vacinação começa",
+      "conteudo": "Ministério da Saúde inicia campanha contra gripe.",
+      "imagem": "vacina-dengue.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Explosão em fábrica na China",
+      "conteudo": "Acidente deixa feridos e mobiliza bombeiros.",
+      "imagem": "img8.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Cinema nacional em destaque",
+      "conteudo": "Filme brasileiro vence prêmio internacional.",
+      "imagem": "img9.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Novas regras do Enem",
+      "conteudo": "Inep divulga mudanças nas provas e inscrições.",
+      "imagem": "img10.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Crise hídrica preocupa",
+      "conteudo": "Reservatórios no Sudeste estão em níveis críticos.",
+      "imagem": "img11.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "Petrobras anuncia reajuste",
+      "conteudo": "Preço da gasolina sobe a partir de amanhã.",
+      "imagem": "img12.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "Brasil vence na estreia",
+      "conteudo": "Seleção brasileira começa torneio com vitória.",
+      "imagem": "img13.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "Desmatamento na Amazônia",
+      "conteudo": "Dados apontam aumento no último trimestre.",
+      "imagem": "img14.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "Governo amplia auxílio",
+      "conteudo": "Novo valor será pago a partir do próximo mês.",
+      "imagem": "img15.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "Estudo sobre inteligência artificial",
+      "conteudo": "Pesquisa brasileira propõe novo modelo de IA.",
+      "imagem": "img16.jpg"
+    }
+  ]
+}
